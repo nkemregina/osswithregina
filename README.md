@@ -34,9 +34,7 @@ Prospective interviewers can submit a pull request and choose a slot for the int
 ## Featured Interviews 🎙️
 
 - [Cheryl Hung](https://www.oicheryl.com/about/)  👩
-
 - [Johanna ](https://twitter.com/Captain_Joannah)  👩
-
 - [Emma Irwin](https://www.linkedin.com/in/emmamirwin/)  👩
   
 
