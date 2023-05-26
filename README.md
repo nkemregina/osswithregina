@@ -1,6 +1,6 @@
 ### Open Source Stories with Regina 🌟
 
-Welcome to the README file for the "Open Source Stories with Regina" project! This program aims to share the stories of leading women in tech who are making significant contributions to the open source ecosystem. My mission is to inspire women's involvement in open source and address gender imbalances within open source communities.
+Welcome to the README file for the "Open Source Stories with Regina" project! 
 
 
 # Table of Contents
