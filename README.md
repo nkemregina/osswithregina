@@ -9,7 +9,7 @@ Welcome to the README file for the "Open Source Stories with Regina" project!
 - [How to Join](#how-to-join)
 - [Project Details](#project-details)
 - [Contributing](#contributing)
-- [Participants](#participants)
+- [Featured Interviews](#Featured Interviews)
 
 ## Introduction ✨
 
@@ -30,5 +30,9 @@ I welcome contributions from individuals who are passionate about open source an
 - Provide Feedback: If you have any suggestions, ideas, or feedback regarding the program, please don't hesitate to reach out. I value your input and am continuously striving to improve my content and platform.
 
 Prospective interviewers can submit a pull request and choose a slot for the interview using [Calendly](https://calendly.com/reginankem/osswithregina).
+
+## Featured Interviews 🎙️
+
+- [![Cheryl Hung](interviewee1.jpg)](https://www.oicheryl.com/about/) - Interviewee 1's profile and more information.
 
 
