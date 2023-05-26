@@ -9,7 +9,7 @@ Welcome to the README file for the "Open Source Stories with Regina" project!
 - [How to Join](#how-to-join)
 - [Project Details](#project-details)
 - [Contributing](#contributing)
-- [Featured Interviews](#Featured Interviews)
+- [Featured Interviews](#Featured-Interviews)
 
 ## Introduction ✨
 
