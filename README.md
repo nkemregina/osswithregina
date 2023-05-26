@@ -33,27 +33,13 @@ Prospective interviewers can submit a pull request and choose a slot for the int
 
 ## Featured Interviews 🎙️
 
+- [Cheryl Hung](https://www.oicheryl.com/about/)  👩
 
-<div align="center">
-  <p float="left">
-    <a href="https://example.com/interviewee1" target="_blank">
-      <img src="https://drive.google.com/uc?export=view&id=1-kTYyNWUTpaWOoezw0bqTsgaPMJ4yxag" width="100" alt="Cheryl Hung">
-    </a>
-    <a href="https://example.com/interviewee2" target="_blank">
-      <img src="https://drive.google.com/uc?export=view&id=1bCUA7wSFpX-nk-T8dso0jClFk43oP9Qs" width="100" alt="Johanna">
-    </a>
-    <a href="https://example.com/interviewee3" target="_blank">
-      <img src="https://drive.google.com/uc?export=view&id=IMAGE_ID_3" width="200" alt="Emma">
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://www.oicheryl.com/about/" target="_blank">Cheryl Hung</a>
-    <br>
-    <a href="https://twitter.com/Captain_Joannah" target="_blank">Johanna</a>
-    <br>
-    <a href="https://example.com/interviewee3" target="_blank">Emma</a>
-  </p>
-</div>
+- [Johanna ](https://twitter.com/Captain_Joannah)  👩
+
+- [Emma Irwin](https://www.linkedin.com/in/emmamirwin/)  👩
+  
+
 
 
 
