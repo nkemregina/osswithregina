@@ -31,12 +31,4 @@ I welcome contributions from individuals who are passionate about open source an
 
 Prospective interviewers can submit a pull request and choose a slot for the interview using [Calendly](https://calendly.com/reginankem/osswithregina).
 
-## Contact 📞
 
-If you have any questions, suggestions, or would like to get in touch with me, you can reach me through the following channels:
-
-Twitter: DM Me!  [@reginaoradata](https://twitter.com/reginaoradata)
-
-I would love to hear from you!
-
-Thank you for your interest in the "Open Source Stories with Regina" project. I look forward to your involvement and together, let's celebrate the achievements of women in open source, one story at a time! 🌟🎙️ #OpensourceStoriesWithRegina
