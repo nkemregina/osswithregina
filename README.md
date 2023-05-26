@@ -19,10 +19,6 @@ Welcome to the README file for the "Open Source Stories with Regina" project!
 
 To be a part of "Open Source Stories with Regina" and listen to my weekly interviews, follow me on Twitter and join my Twitter Spaces sessions. My Twitter handle is [@reginaoradata](https://twitter.com/reginaoradata). Stay updated with my latest interviews, engage with the open source community, and learn from the inspiring women in the field.
 
-## Project Details 💡
-
-The "Open Source Stories with Regina" project is focused on sharing stories, insights, and advice from women who have made a significant impact in the open source community. My primary platform for sharing these stories is through Twitter Spaces. Twitter Spaces is a feature on Twitter where live audio conversations take place. It allows users to listen to interviews, ask questions, and interact with the speakers and other participants in real-time.
-
 ## Contributing 🚀
 
 I welcome contributions from individuals who are passionate about open source and promoting gender diversity. Here are some ways you can contribute to the project:
