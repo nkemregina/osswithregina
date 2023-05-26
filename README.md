@@ -33,6 +33,15 @@ Prospective interviewers can submit a pull request and choose a slot for the int
 
 ## Featured Interviews 🎙️
 
+
+<div align="center">
+  <p float="left">
+    <img src="https://drive.google.com/uc?export=view&id=1-kTYyNWUTpaWOoezw0bqTsgaPMJ4yxag" width="200" alt="Interviewee 1">
+    <img src="https://drive.google.com/uc?export=view&id=1bCUA7wSFpX-nk-T8dso0jClFk43oP9Qs" width="200" alt="Interviewee 2">
+    <img src="https://drive.google.com/uc?export=view&id=IMAGE_ID_3" width="200" alt="Interviewee 3">
+  </p>
+</div>
+
 <div align="center">
   <p float="left">
     <a href="https://example.com/interviewee1" target="_blank">
