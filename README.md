@@ -35,13 +35,24 @@ Prospective interviewers can submit a pull request and choose a slot for the int
 
 <div align="center">
   <p float="left">
-    <img src="https://drive.google.com/uc?export=view&id=1-kTYyNWUTpaWOoezw0bqTsgaPMJ4yxag" width="200" alt="Interviewee 1">
-    <img src="https://drive.google.com/uc?export=view&id=1bCUA7wSFpX-nk-T8dso0jClFk43oP9Qs" width="200" alt="Interviewee 2">
-    <img src="https://drive.google.com/uc?export=view&id=IMAGE_ID_3" width="200" alt="Interviewee 3">
+    <a href="https://example.com/interviewee1" target="_blank">
+      <img src="https://drive.google.com/uc?export=view&id=kTYyNWUTpaWOoezw0bqTsgaPMJ4yxag" width="200" alt="Interviewee 1">
+    </a>
+    <a href="https://example.com/interviewee2" target="_blank">
+      <img src="https://drive.google.com/uc?export=view&id=1bCUA7wSFpX-nk-T8dso0jClFk43oP9Qs" width="200" alt="Interviewee 2">
+    </a>
+    <a href="https://example.com/interviewee3" target="_blank">
+      <img src="https://drive.google.com/uc?export=view&id=IMAGE_ID_3" width="200" alt="Interviewee 3">
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://www.oicheryl.com/about/" target="_blank">Interviewee 1</a>
+    <br>
+    <a href="https://twitter.com/Captain_Joannah" target="_blank">Interviewee 2</a>
+    <br>
+    <a href="https://example.com/interviewee3" target="_blank">Interviewee 3</a>
   </p>
 </div>
-
-
 
 
 
