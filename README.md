@@ -1,5 +1,8 @@
 ### Open Source Stories with Regina 🌟
 
+![Banner](<Banner for OSS withregina.png>)
+
+
 Welcome to the README file for the "Open Source Stories with Regina" project! 
 
 
