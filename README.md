@@ -3,7 +3,7 @@
 ![Banner](<Banner for OSS withregina.png>)
 
 
-Welcome to the README file for the "Open Source Stories with Regina" project! 
+Welcome to Open Source Stories with Regina: Empowering Women in Open-Source Through Storytelling! 💪📚
 
 
 # Table of Contents
