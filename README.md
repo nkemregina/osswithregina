@@ -12,6 +12,7 @@ Welcome to Open Source Stories with Regina: Empowering Women in Open-Source Thro
 - [How to Join](#how-to-join)
 - [Project Details](#project-details)
 - [Contributing](#contributing)
+- [Request for Interview](#Request-for-Interviews)
 - [Featured Interviews](#Featured-Interviews)
 
 ## Introduction ✨
@@ -34,7 +35,18 @@ I welcome contributions from individuals who are passionate about open source an
 
 - Provide Feedback: If you have any suggestions, ideas, or feedback regarding the program, please don't hesitate to reach out. I value your input and am continuously striving to improve my content and platform.
 
-Prospective interviewers can submit a pull request and choose a slot for the interview using [Calendly](https://calendly.com/reginankem/osswithregina).
+## Request for Interview 🎙️
+
+Are you interested in being interviewed for "Open Source Stories with Regina"? I would love to hear your story and share it with the community!
+
+Prospective interviewees can submit a new issue by following these steps:
+
+1. Click on the "Issues" tab at the top of this repository.
+2. Click on the green "New issue" button.
+3. Provide details about yourself, your background, and your availability for the interview.
+4. Once submitted, I will review your request and get back to you as soon as possible to discuss further.
+
+I'm excited to hear from you and feature your inspiring story in our open source community! Let's create an amazing interview together! 💪🌟
 
 ## Featured Interviews 🎙️
 
