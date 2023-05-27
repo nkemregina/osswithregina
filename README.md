@@ -36,8 +36,8 @@ Prospective interviewers can submit a pull request and choose a slot for the int
 
 ## Featured Interviews 🎙️
 
-- [Cheryl Hung](https://www.oicheryl.com/about/)  👩
-- [Johanna ](https://twitter.com/Captain_Joannah)  👩
+- [Cheryl Hung](https://www.oicheryl.com/about/) 👩 - [🎧 Listen: An Inspiring Conversation with Cheryl Hung](https://podcasters.spotify.com/pod/pod/show/reginankenchor/episodes/An-Interview-with-Cheryl-Hung-Episode-1-e2421ud)
+- [Johanna ](https://twitter.com/Captain_Joannah)  👩 - [🎧 Tune in: Unveiling the Journey of Joannah Nanjekye](https://podcasters.spotify.com/pod/show/reginankenchor/episodes/An-Interview-with-Joannah-Nanjekye-Episode-2-e24p9bq/a-a57pjj)
 - [Emma Irwin](https://www.linkedin.com/in/emmamirwin/)  👩
   
 
