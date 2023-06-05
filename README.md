@@ -51,8 +51,9 @@ I'm excited to hear from you and feature your inspiring story in our open source
 ## Featured Interviews 🎙️
 
 - [Cheryl Hung](https://www.oicheryl.com/about/) 👩 - [🎧 Listen: An Inspiring Conversation with Cheryl Hung](https://podcasters.spotify.com/pod/pod/show/reginankenchor/episodes/An-Interview-with-Cheryl-Hung-Episode-1-e2421ud)
-- [Johanna ](https://twitter.com/Captain_Joannah)  👩 - [🎧 Tune in: Unveiling the Journey of Joannah Nanjekye](https://podcasters.spotify.com/pod/show/reginankenchor/episodes/An-Interview-with-Joannah-Nanjekye-Episode-2-e24p9bq/a-a57pjj)
-- [Emma Irwin](https://www.linkedin.com/in/emmamirwin/)  👩
+- [Johanna Nanjekye ](https://twitter.com/Captain_Joannah)  👩 - [🎧 Tune in: Unveiling the Journey of Joannah Nanjekye](https://podcasters.spotify.com/pod/show/reginankenchor/episodes/An-Interview-with-Joannah-Nanjekye-Episode-2-e24p9bq/a-a57pjj)
+- [Emma Irwin ](https://www.linkedin.com/in/emmamirwin/)  👩 - [🎧 Unveiling the Inspiration: Emma Irwin's Open Source Journey 🚀](https://spotifyanchor-web.app.link/e/93YQBC3koAb)
+
   
 
 
