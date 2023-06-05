@@ -5,15 +5,12 @@
 
 Welcome to Open Source Stories with Regina: Empowering Women in Open-Source Through Storytelling! 💪📚
 
+## Featured Interviews 🎙️
 
-# Table of Contents
+- [Cheryl Hung](https://www.oicheryl.com/about/) 👩 - [🎧 Listen: An Inspiring Conversation with Cheryl Hung](https://podcasters.spotify.com/pod/pod/show/reginankenchor/episodes/An-Interview-with-Cheryl-Hung-Episode-1-e2421ud)
+- [Johanna Nanjekye ](https://twitter.com/Captain_Joannah)  👩 - [🎧 Tune in: Unveiling the Journey of Joannah Nanjekye](https://podcasters.spotify.com/pod/show/reginankenchor/episodes/An-Interview-with-Joannah-Nanjekye-Episode-2-e24p9bq/a-a57pjj)
+- [Emma Irwin ](https://www.linkedin.com/in/emmamirwin/)  👩 - [🎧 Unveiling the Inspiration: Emma Irwin's Open Source Journey 🚀](https://spotifyanchor-web.app.link/e/93YQBC3koAb)
 
-- [Introduction](#introduction)
-- [How to Join](#how-to-join)
-- [Project Details](#project-details)
-- [Contributing](#contributing)
-- [Request for Interview](#Request-for-Interviews)
-- [Featured Interviews](#Featured-Interviews)
 
 ## Introduction ✨
 
@@ -48,11 +45,7 @@ Prospective interviewees can submit a new issue by following these steps:
 
 I'm excited to hear from you and feature your inspiring story in our open source community! Let's create an amazing interview together! 💪🌟
 
-## Featured Interviews 🎙️
 
-- [Cheryl Hung](https://www.oicheryl.com/about/) 👩 - [🎧 Listen: An Inspiring Conversation with Cheryl Hung](https://podcasters.spotify.com/pod/pod/show/reginankenchor/episodes/An-Interview-with-Cheryl-Hung-Episode-1-e2421ud)
-- [Johanna Nanjekye ](https://twitter.com/Captain_Joannah)  👩 - [🎧 Tune in: Unveiling the Journey of Joannah Nanjekye](https://podcasters.spotify.com/pod/show/reginankenchor/episodes/An-Interview-with-Joannah-Nanjekye-Episode-2-e24p9bq/a-a57pjj)
-- [Emma Irwin ](https://www.linkedin.com/in/emmamirwin/)  👩 - [🎧 Unveiling the Inspiration: Emma Irwin's Open Source Journey 🚀](https://spotifyanchor-web.app.link/e/93YQBC3koAb)
 
   
 
