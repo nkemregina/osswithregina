@@ -20,7 +20,7 @@ Welcome to Open Source Stories with Regina: Empowering Women in Open-Source Thro
 
 🌟 To be a part of "Open Source Stories with Regina" and stay updated with my weekly interviews, follow me on Twitter. Join my Twitter Spaces sessions, where you can actively engage and listen to inspiring women in open source share their stories and insights. Connect with me on Twitter: [@reginaoradata](https://twitter.com/reginaoradata). 🚀
 
-🎧 You can listen to the recording interviews of inspiring women in open source on [Spotify]([https://podcasters.spotify.com/pod/show/reginankenchor](https://open.spotify.com/show/4d1B05CZmkX1KHgH5qEaEM)). Explore the diverse perspectives and valuable insights shared by these remarkable individuals. 🎙️
+🎧 You can listen to the recording interviews of inspiring women in open source on [Spotify](https://open.spotify.com/show/4d1B05CZmkX1KHgH5qEaEM). Explore the diverse perspectives and valuable insights shared by these remarkable individuals. 🎙️
 
 ## Contributing 🚀
 
