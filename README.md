@@ -7,7 +7,7 @@ Welcome to Open Source Stories with Regina: Empowering Women in Open-Source Thro
 
 ## Featured Interviews 🎙️
 
-- [Cheryl Hung](https://www.oicheryl.com/about/) 👩 - [🎧 Listen: An Inspiring Conversation with Cheryl Hung](https://podcasters.spotify.com/pod/pod/show/reginankenchor/episodes/An-Interview-with-Cheryl-Hung-Episode-1-e2421ud)
+- [Cheryl Hung](https://www.oicheryl.com/about/) 👩 - [🎧 Listen: An Inspiring Conversation with Cheryl Hung](https://podcasters.spotify.com/pod/show/reginankenchor/episodes/An-Interview-with-Cheryl-Hung-Episode-1-e2421ud/a-a9r5fch)
 - [Johanna Nanjekye ](https://twitter.com/Captain_Joannah)  👩 - [🎧 Tune in: Unveiling the Journey of Joannah Nanjekye](https://podcasters.spotify.com/pod/show/reginankenchor/episodes/An-Interview-with-Joannah-Nanjekye-Episode-2-e24p9bq/a-a57pjj)
 - [Emma Irwin ](https://www.linkedin.com/in/emmamirwin/)  👩 - [🎧 Unveiling the Inspiration: Emma Irwin's Open Source Journey 🚀](https://spotifyanchor-web.app.link/e/93YQBC3koAb)
 - [Stormy Peters ](https://www.linkedin.com/in/stormy/)  👩 - [🎧 Upcoming Stormy Peters's Open Source Story 🚀](https://twitter.com/i/spaces/1OwGWwdbEvAGQ)
