@@ -1,6 +1,6 @@
 ### Open Source Stories with Regina 🌟
 
-![Banner](<Banner for OSS withregina.png>)
+![Banner](<New Logo OPEN SOURCE STORIES WITH REGINA (Postcard).jpg>)
 
 
 Welcome to Open Source Stories with Regina: Empowering Women in Open-Source Through Storytelling! 💪📚
