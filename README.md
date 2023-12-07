@@ -12,7 +12,7 @@ Welcome to Open Source Stories with Regina: Empowering Women in Open-Source Thro
 - [Emma Irwin ](https://www.linkedin.com/in/emmamirwin/)  👩 - [🎧 Unveiling the Inspiration: Emma Irwin's Open Source Journey 🚀](https://spotifyanchor-web.app.link/e/93YQBC3koAb)
 - [Stormy Peters ](https://www.linkedin.com/in/stormy/)  👩 - [🎧 Unraveling Stormy Peters Open Source Journey and Inspiration🚀](https://podcasters.spotify.com/pod/show/reginankenchor/episodes/Unraveling-Stormy-Peters-Open-Source-Journey-and-Inspiration--Episode-4-e26vv2b)
 - [Dr. Dawn Foster](https://twitter.com/geekygirldawn)  👩 - [🎧 Exploring Dr. Dawn's Open Source Journey with Regina – An Open Conversation 🚀](https://podcasters.spotify.com/pod/show/reginankenchor/episodes/Exploring-Dr--Dawns-Open-Source-Journey-with-Regina--An-Open-Conversation-e28e1n6)
-- - [Regina Nkenchor](https://twitter.com/geekygirldawn)  👩 - [🎧 Recognizing your Value as a Contributor in the Open Source ecosystem: An interview with Regina 🚀](https://open.spotify.com/episode/1h8VQdN8Pq2W0QS71l4hxb?si=zJXLLsJuSJq4LT1G0sFKAw)
+- [Regina Nkenchor](https://twitter.com/geekygirldawn)  👩 - [🎧 Recognizing your Value as a Contributor in the Open Source ecosystem: An interview with Regina 🚀](https://open.spotify.com/episode/1h8VQdN8Pq2W0QS71l4hxb?si=zJXLLsJuSJq4LT1G0sFKAw)
 
 
 ## Introduction ✨
