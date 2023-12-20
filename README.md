@@ -1,19 +1,19 @@
 ### Open Source Stories with Regina 🌟
 
-![Banner](<Banner for OSS withregina.png>)
+![Banner](<New Logo OPEN SOURCE STORIES WITH REGINA (Postcard).jpg>)
 
 
 Welcome to Open Source Stories with Regina: Empowering Women in Open-Source Through Storytelling! 💪📚
 
+## Featured Interviews 🎙️
 
-# Table of Contents
+- [Cheryl Hung](https://www.oicheryl.com/about/) 👩 - [🎧 Listen: An Inspiring Conversation with Cheryl Hung](https://podcasters.spotify.com/pod/pod/show/reginankenchor/episodes/An-Interview-with-Cheryl-Hung-Episode-1-e2421ud)
+- [Johanna Nanjekye ](https://twitter.com/Captain_Joannah)  👩 - [🎧 Tune in: Unveiling the Journey of Joannah Nanjekye](https://podcasters.spotify.com/pod/show/reginankenchor/episodes/An-Interview-with-Joannah-Nanjekye-Episode-2-e24p9bq/a-a57pjj)
+- [Emma Irwin ](https://www.linkedin.com/in/emmamirwin/)  👩 - [🎧 Unveiling the Inspiration: Emma Irwin's Open Source Journey 🚀](https://spotifyanchor-web.app.link/e/93YQBC3koAb)
+- [Stormy Peters ](https://www.linkedin.com/in/stormy/)  👩 - [🎧 Unraveling Stormy Peters Open Source Journey and Inspiration🚀](https://podcasters.spotify.com/pod/show/reginankenchor/episodes/Unraveling-Stormy-Peters-Open-Source-Journey-and-Inspiration--Episode-4-e26vv2b)
+- [Dr. Dawn Foster](https://twitter.com/geekygirldawn)  👩 - [🎧 Exploring Dr. Dawn's Open Source Journey with Regina – An Open Conversation 🚀](https://podcasters.spotify.com/pod/show/reginankenchor/episodes/Exploring-Dr--Dawns-Open-Source-Journey-with-Regina--An-Open-Conversation-e28e1n6)
+- [Regina Nkenchor](https://twitter.com/geekygirldawn)  👩 - [🎧 Recognizing your Value as a Contributor in the Open Source ecosystem: An interview with Regina 🚀](https://open.spotify.com/episode/1h8VQdN8Pq2W0QS71l4hxb?si=zJXLLsJuSJq4LT1G0sFKAw)
 
-- [Introduction](#introduction)
-- [How to Join](#how-to-join)
-- [Project Details](#project-details)
-- [Contributing](#contributing)
-- [Request for Interview](#Request-for-Interviews)
-- [Featured Interviews](#Featured-Interviews)
 
 ## Introduction ✨
 
@@ -21,9 +21,9 @@ Welcome to Open Source Stories with Regina: Empowering Women in Open-Source Thro
 
 ## How to Join 🌟
 
-🌟 To be a part of "Open Source Stories with Regina" and stay updated with my weekly interviews, follow me on Twitter. Join my Twitter Spaces sessions, where you can actively engage and listen to inspiring women in open source share their stories and insights. Connect with me on Twitter: [@reginaoradata](https://twitter.com/reginaoradata). 🚀
+🌟 To be a part of "Open Source Stories with Regina" and stay updated with my weekly interviews, follow me on Twitter. Join my Twitter Spaces sessions, where you can actively engage and listen to inspiring women in open source share their stories and insights. Connect with me on Twitter: [Regina Nkenchor](https://twitter.com/reginankenchor). 🚀
 
-🎧 You can listen to the recording interviews of inspiring women in open source on [Spotify](https://podcasters.spotify.com/pod/show/reginankenchor). Explore the diverse perspectives and valuable insights shared by these remarkable individuals. 🎙️
+🎧 You can listen to the recording interviews of inspiring women in open source on [Spotify](https://open.spotify.com/show/4d1B05CZmkX1KHgH5qEaEM). Explore the diverse perspectives and valuable insights shared by these remarkable individuals. 🎙️
 
 ## Contributing 🚀
 
@@ -48,11 +48,8 @@ Prospective interviewees can submit a new issue by following these steps:
 
 I'm excited to hear from you and feature your inspiring story in our open source community! Let's create an amazing interview together! 💪🌟
 
-## Featured Interviews 🎙️
 
-- [Cheryl Hung](https://www.oicheryl.com/about/) 👩 - [🎧 Listen: An Inspiring Conversation with Cheryl Hung](https://podcasters.spotify.com/pod/pod/show/reginankenchor/episodes/An-Interview-with-Cheryl-Hung-Episode-1-e2421ud)
-- [Johanna ](https://twitter.com/Captain_Joannah)  👩 - [🎧 Tune in: Unveiling the Journey of Joannah Nanjekye](https://podcasters.spotify.com/pod/show/reginankenchor/episodes/An-Interview-with-Joannah-Nanjekye-Episode-2-e24p9bq/a-a57pjj)
-- [Emma Irwin](https://www.linkedin.com/in/emmamirwin/)  👩
+
   
 
 
